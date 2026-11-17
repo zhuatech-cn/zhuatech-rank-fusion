@@ -1,0 +1,13 @@
+{
+  "name": "只返回第一名",
+  "settings": {
+    "constant": 60,
+    "lexWeight": 1,
+    "topK": 1
+  },
+  "checkpoint": {
+    "metric": "returned",
+    "expected": 1,
+    "absoluteTolerance": 1e-10
+  }
+}

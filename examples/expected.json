@@ -1,0 +1,11 @@
+{
+  "metrics": {
+    "queries": 1,
+    "returned": 2
+  },
+  "row": {
+    "id": "Q1",
+    "rank": 1,
+    "doc": "D2"
+  }
+}

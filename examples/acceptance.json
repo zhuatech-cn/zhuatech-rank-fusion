@@ -1,0 +1,21 @@
+{
+  "title": "混合检索排行融合验收样本",
+  "settings": {
+    "constant": 60,
+    "lexWeight": 0.5,
+    "topK": 2
+  },
+  "rows": [
+    {
+      "id": "Q1",
+      "lexical": [
+        "D1",
+        "D2"
+      ],
+      "semantic": [
+        "D2",
+        "D3"
+      ]
+    }
+  ]
+}

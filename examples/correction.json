@@ -1,0 +1,14 @@
+{
+  "row": 0,
+  "id": "Q1",
+  "field": "semantic",
+  "before": [
+    "D2",
+    "D3"
+  ],
+  "after": [
+    "D3",
+    "D2"
+  ],
+  "reason": "修正语义检索顺序"
+}

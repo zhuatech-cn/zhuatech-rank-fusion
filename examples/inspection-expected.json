@@ -1,0 +1,11 @@
+{
+  "metrics": {
+    "changedQueries": 1
+  },
+  "row": {
+    "id": "Q1",
+    "retained": 2,
+    "gained": [],
+    "orderChanged": true
+  }
+}
